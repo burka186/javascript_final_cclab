@@ -8,11 +8,11 @@ var loadDefOne = function(response){
   // };
   var newDef = document.createElement('div');
 
-  newDef.className = 'newDef';
+  newDef.className = 'definition';
 
   var defOne = response.word;
 
-  $('#newDef').text(defOne);
+  $('#word').text(defOne);
 
 };
 
@@ -20,11 +20,11 @@ var loadDefTwo = function(response){
 
   var newDef = document.createElement('div');
 
-  newDef.className = 'newDefTwo';
+  newDef.className = 'definition';
 
   var defTwo = response.word;
 
-  $('#newDefTwo').text(defTwo);
+  $('#word').text(defTwo);
 
 }
 //get definitions
