@@ -1,0 +1,108 @@
+html{
+	font-family: Didot, serif;
+	font-style: italic;
+}
+#curtain{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 800px;
+	background-color: blue;
+	/*background: url(http://www.pxleyes.com/images/contests/film-noir-2/fullsize/The-contract----510061f48746e_hires.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;*/
+}
+
+#wrapper{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#logo{
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+	top: 100px;
+}
+
+#titleMe {
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+	background-color: #fff;
+	border: 10px solid red;
+	cursor: pointer;
+	text-align: center;
+	top: 150px;
+	left: 33%;
+	
+}
+
+#newDef#newDefTwo {
+	position: relative;
+	margin: 0 auto;
+}
+
+/*#mainWrapper{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#pulpDiction {
+	margin-top: 30px;
+	padding-bottom: 10px;
+}
+
+#bodyWrapper{
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+#bookCoverWrapper img{
+	position: relative;
+	display: inline-block;
+	margin: 0 auto;
+	max-height: 550px;
+	width: auto;
+}
+
+
+#wordsWrapper{
+	position: relative;
+	display: inline-block;
+	left: -170px;
+	text-align: right;
+	top: -550px;
+}
+
+.titleText{
+	font-size: 3.5em;
+	cursor: pointer;
+}
+
+#word#wordTwo{
+	font-size: 5em;
+
+}
+
+#titleMe {
+	position: relative;
+	display: inline-block;
+	float: left;
+	top: -350px;
+	left: 400px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0 auto;
+	background-color: #fff000;
+	border: 10px solid red;
+	cursor: pointer;
+	text-align: center;
+}*/
